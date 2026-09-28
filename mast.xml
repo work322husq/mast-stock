@@ -20556,12 +20556,6 @@
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
-  <offer id="mast-9409">
-    <vendorCode>SUN-30K-SG02HP3-EU-AM3</vendorCode>
-    <price>79550.00</price>
-    <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
-  </offer>
   <offer id="mast-9411">
     <vendorCode>MT-HRI50-E-BAZ</vendorCode>
     <price>396240.00</price>
