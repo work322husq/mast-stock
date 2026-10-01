@@ -6568,7 +6568,7 @@
     <vendorCode>DOP1000</vendorCode>
     <price>6120.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4480">
     <vendorCode>AP-1</vendorCode>
@@ -20116,7 +20116,7 @@
     <vendorCode>M16S100BL-U</vendorCode>
     <price>33426.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9303">
     <vendorCode>M-SR 20</vendorCode>
