@@ -5272,7 +5272,7 @@
     <vendorCode>TA3500GHX</vendorCode>
     <price>11530.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-3842">
     <vendorCode>YH3600-IV(K)</vendorCode>
@@ -6184,7 +6184,7 @@
     <vendorCode>MDC1500</vendorCode>
     <price>69680.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-4370">
     <vendorCode>WP100H</vendorCode>
@@ -6478,7 +6478,7 @@
     <vendorCode>TS-125</vendorCode>
     <price>220070.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-4457">
     <vendorCode>HMS700_400V</vendorCode>
@@ -6502,7 +6502,7 @@
     <vendorCode>UWS3_230V</vendorCode>
     <price>64700.00</price>
     <price_special>59780.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4465">
     <vendorCode>MS7000_230V</vendorCode>
@@ -6568,7 +6568,7 @@
     <vendorCode>DOP1000</vendorCode>
     <price>6120.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-4480">
     <vendorCode>AP-1</vendorCode>
@@ -6928,7 +6928,7 @@
     <vendorCode>BBM610</vendorCode>
     <price>20570.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4690">
     <vendorCode>BBM310S</vendorCode>
@@ -7522,7 +7522,7 @@
     <vendorCode>UND-BD 44 KVA</vendorCode>
     <price>537680.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4926">
     <vendorCode>FE-Y 55 KVA</vendorCode>
@@ -8152,13 +8152,13 @@
     <vendorCode>M300S</vendorCode>
     <price>77370.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-5108">
     <vendorCode>M250S</vendorCode>
     <price>28330.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-5109">
     <vendorCode>AKM2020</vendorCode>
@@ -8890,13 +8890,13 @@
     <vendorCode>WLTB</vendorCode>
     <price>28440.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-5525">
     <vendorCode>WLTC</vendorCode>
     <price>34720.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-5526">
     <vendorCode>HT15C</vendorCode>
@@ -8950,7 +8950,7 @@
     <vendorCode>WLTA</vendorCode>
     <price>29810.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-5535">
     <vendorCode>C6266/3000</vendorCode>
@@ -10090,7 +10090,7 @@
     <vendorCode>BP-5323</vendorCode>
     <price>1550.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-6305">
     <vendorCode>BP-4873</vendorCode>
@@ -11026,7 +11026,7 @@
     <vendorCode>TA1085</vendorCode>
     <price>1350.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-6652">
     <vendorCode>TA4041</vendorCode>
@@ -11404,7 +11404,7 @@
     <vendorCode>LUP8E/230</vendorCode>
     <price>42070.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-6746">
     <vendorCode>WS 700T</vendorCode>
@@ -13294,7 +13294,7 @@
     <vendorCode>JHCF1-25</vendorCode>
     <price>48700.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-7517">
     <vendorCode>ZI-BHA1500DN</vendorCode>
@@ -16810,7 +16810,7 @@
     <vendorCode>MOF1680/2x1500-50L</vendorCode>
     <price>14620.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8474">
     <vendorCode>MOF1680/3x1500-120L</vendorCode>
@@ -17908,7 +17908,7 @@
     <vendorCode>HR-350SA</vendorCode>
     <price>1599510.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8783">
     <vendorCode>WS230_230V</vendorCode>
@@ -18298,7 +18298,7 @@
     <vendorCode>HRT1860+PRZYMIA</vendorCode>
     <price>27310.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8880">
     <vendorCode>07-05-84</vendorCode>
@@ -18994,7 +18994,7 @@
     <vendorCode>PB 500.600-50</vendorCode>
     <price>28000.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9025">
     <vendorCode>VG20</vendorCode>
@@ -19114,7 +19114,7 @@
     <vendorCode>16_pro_12_2400x1200_100</vendorCode>
     <price>111520.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9052">
     <vendorCode>16_pro_12_2990x1490_100</vendorCode>
@@ -19900,7 +19900,7 @@
     <vendorCode>HRT1860</vendorCode>
     <price>21660.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9235">
     <vendorCode>BS712R 400V</vendorCode>
@@ -19972,7 +19972,7 @@
     <vendorCode>MILL550 3 osie S808 N12 W8 T</vendorCode>
     <price>1832890.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9263">
     <vendorCode>MILL850PREMIUM LINE</vendorCode>
@@ -19996,7 +19996,7 @@
     <vendorCode>OS3500</vendorCode>
     <price>135290.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9268">
     <vendorCode>OS4000M</vendorCode>
@@ -20080,7 +20080,7 @@
     <vendorCode>HTP-12/600</vendorCode>
     <price>974430.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9287">
     <vendorCode>GQ45A</vendorCode>
@@ -20116,7 +20116,7 @@
     <vendorCode>M16S100BL-U</vendorCode>
     <price>33426.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9303">
     <vendorCode>M-SR 20</vendorCode>
@@ -20146,7 +20146,7 @@
     <vendorCode>Enrg_wtht_outg</vendorCode>
     <price>59467.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9309">
     <vendorCode>Enrg_Indp</vendorCode>
@@ -20230,7 +20230,7 @@
     <vendorCode>WP300</vendorCode>
     <price>18040.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9332">
     <vendorCode>16k001</vendorCode>
@@ -20272,13 +20272,13 @@
     <vendorCode>HTP-40/1600</vendorCode>
     <price>1714450.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9351">
     <vendorCode>HTP-12/600 DA53TX</vendorCode>
     <price>1375130.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9356">
     <vendorCode>SUN-10K-SG02LP1-EU-AM3-P</vendorCode>
