@@ -982,7 +982,7 @@
     <vendorCode>ZS400U_230V</vendorCode>
     <price>84120.00</price>
     <price_special>61960.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2350">
     <vendorCode>ZS970P_400V</vendorCode>
@@ -1024,7 +1024,7 @@
     <vendorCode>ZS560U_230V</vendorCode>
     <price>90580.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2376">
     <vendorCode>BT46_230V</vendorCode>
@@ -1840,7 +1840,7 @@
     <vendorCode>WB155TWIN</vendorCode>
     <price>30880.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-2530">
     <vendorCode>WB123A</vendorCode>
@@ -6676,7 +6676,7 @@
     <vendorCode>BF25VLN_230V</vendorCode>
     <price>148410.00</price>
     <price_special>107710.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4503">
     <vendorCode>BF20V_230V</vendorCode>
@@ -6808,7 +6808,7 @@
     <vendorCode>AKM1220</vendorCode>
     <price>54970.00</price>
     <price_special>42550.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4574">
     <vendorCode>AKB1000FO</vendorCode>
@@ -7522,7 +7522,7 @@
     <vendorCode>UND-BD 44 KVA</vendorCode>
     <price>537680.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-4926">
     <vendorCode>FE-Y 55 KVA</vendorCode>
@@ -12304,7 +12304,7 @@
     <vendorCode>MW500</vendorCode>
     <price>1633900.00</price>
     <price_special>1361580.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7240">
     <vendorCode>WP50ECO</vendorCode>
@@ -13864,7 +13864,7 @@
     <vendorCode>SK990_230V</vendorCode>
     <price>103130.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-7656">
     <vendorCode>SK220_230V</vendorCode>
@@ -14446,7 +14446,7 @@
     <vendorCode>11-00-96</vendorCode>
     <price>88790.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-7778">
     <vendorCode>11-00-79</vendorCode>
@@ -14944,19 +14944,19 @@
     <vendorCode>14-00-48</vendorCode>
     <price>1370.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7896">
     <vendorCode>14-00-37</vendorCode>
     <price>720.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7897">
     <vendorCode>14-00-40</vendorCode>
     <price>1250.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7898">
     <vendorCode>02-02-71</vendorCode>
@@ -14968,7 +14968,7 @@
     <vendorCode>02-02-45</vendorCode>
     <price>1410.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7900">
     <vendorCode>02-02-47</vendorCode>
@@ -16810,7 +16810,7 @@
     <vendorCode>MOF1680/2x1500-50L</vendorCode>
     <price>14620.00</price>
     <price_special>12690.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8474">
     <vendorCode>MOF1680/3x1500-120L</vendorCode>
@@ -17170,7 +17170,7 @@
     <vendorCode>14-00-42</vendorCode>
     <price>520.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8566">
     <vendorCode>12-00-87</vendorCode>
@@ -18964,7 +18964,7 @@
     <vendorCode>LZN30-16 VSD</vendorCode>
     <price>396290.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9019">
     <vendorCode>MOF1680</vendorCode>
@@ -18994,7 +18994,7 @@
     <vendorCode>PB 500.600-50</vendorCode>
     <price>28000.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9025">
     <vendorCode>VG20</vendorCode>
@@ -19996,7 +19996,7 @@
     <vendorCode>OS3500</vendorCode>
     <price>135290.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9268">
     <vendorCode>OS4000M</vendorCode>
@@ -20146,7 +20146,7 @@
     <vendorCode>Enrg_wtht_outg</vendorCode>
     <price>59467.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9309">
     <vendorCode>Enrg_Indp</vendorCode>
@@ -20230,7 +20230,7 @@
     <vendorCode>WP300</vendorCode>
     <price>18040.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9332">
     <vendorCode>16k001</vendorCode>
@@ -20386,7 +20386,7 @@
     <vendorCode>SUN-8K-SG05LP1-EU-AM2-P</vendorCode>
     <price>59360.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9376">
     <vendorCode>TA7350TD</vendorCode>
