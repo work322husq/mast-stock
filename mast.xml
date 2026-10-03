@@ -981,7 +981,7 @@
   <offer id="mast-2349">
     <vendorCode>ZS400U_230V</vendorCode>
     <price>84120.00</price>
-    <price_special>61960.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2350">
@@ -6675,7 +6675,7 @@
   <offer id="mast-4500">
     <vendorCode>BF25VLN_230V</vendorCode>
     <price>148410.00</price>
-    <price_special>107710.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4503">
@@ -6807,7 +6807,7 @@
   <offer id="mast-4573">
     <vendorCode>AKM1220</vendorCode>
     <price>54970.00</price>
-    <price_special>42550.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4574">
@@ -9416,7 +9416,7 @@
   </offer>
   <offer id="mast-6054">
     <vendorCode>KDP450TOP+DC15</vendorCode>
-    <price>98850.00</price>
+    <price>80520.00</price>
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -12303,7 +12303,7 @@
   <offer id="mast-7228">
     <vendorCode>MW500</vendorCode>
     <price>1633900.00</price>
-    <price_special>1361580.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7240">
@@ -16809,7 +16809,7 @@
   <offer id="mast-8473">
     <vendorCode>MOF1680/2x1500-50L</vendorCode>
     <price>14620.00</price>
-    <price_special>12690.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8474">
