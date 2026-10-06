@@ -11716,7 +11716,7 @@
     <vendorCode>TMGB-150</vendorCode>
     <price>913880.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-6893">
     <vendorCode>UND-K 55</vendorCode>
@@ -19738,7 +19738,7 @@
     <vendorCode>TMGB-350</vendorCode>
     <price>1771180.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9174">
     <vendorCode>TORNADO 460X1000</vendorCode>
@@ -20506,7 +20506,7 @@
     <vendorCode>SE-F5-PRO-C</vendorCode>
     <price>39620.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9400">
     <vendorCode>DSM250_230V</vendorCode>
