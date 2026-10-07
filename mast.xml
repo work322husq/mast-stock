@@ -20257,7 +20257,7 @@
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9342">
-    <vendorCode>TA5000I</vendorCode>
+    <vendorCode>TA5000IW</vendorCode>
     <price>21400.00</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
@@ -20577,6 +20577,156 @@
   <offer id="mast-9409">
     <vendorCode>SUN-30K-G04</vendorCode>
     <price>79550.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-7251">
+    <vendorCode>SH-30S/400V</vendorCode>
+    <price>81400.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9416">
+    <vendorCode>MSM250</vendorCode>
+    <price>37300.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9417">
+    <vendorCode>MDC750</vendorCode>
+    <price>43690.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9419">
+    <vendorCode>M300S+MDC750 400V</vendorCode>
+    <price>77370.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9420">
+    <vendorCode>MDC750/230V</vendorCode>
+    <price>43690.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9421">
+    <vendorCode>MDC750_230V</vendorCode>
+    <price>43690.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9422">
+    <vendorCode>M-SHM 150</vendorCode>
+    <price>222140.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9423">
+    <vendorCode>MT-HRI50-G-PRO</vendorCode>
+    <price>417710.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9424">
+    <vendorCode>MT-HRI50-G</vendorCode>
+    <price>381050.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9425">
+    <vendorCode>log_lftr</vendorCode>
+    <price>92730.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9426">
+    <vendorCode>HYBRID DEYE-SUN-16K-SG01LP1-EU-AM3-P</vendorCode>
+    <price>109830.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9428">
+    <vendorCode>BK5030</vendorCode>
+    <price>1332936.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9429">
+    <vendorCode>MAST-BG KZM 9</vendorCode>
+    <price>305080.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9431">
+    <vendorCode>K3000</vendorCode>
+    <price>12999.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9432">
+    <vendorCode>WE-63T/1600_TP10S</vendorCode>
+    <price>1133350.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9433">
+    <vendorCode>WE-40Tx1600_ET15</vendorCode>
+    <price>1287900.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9434">
+    <vendorCode>MT-SM760</vendorCode>
+    <price>55360.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9435">
+    <vendorCode>MT-RD400</vendorCode>
+    <price>75560.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9436">
+    <vendorCode>MT-PR-HS14T</vendorCode>
+    <price>48080.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9437">
+    <vendorCode>MT-PR-HS11T</vendorCode>
+    <price>45330.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9438">
+    <vendorCode>MT-PR-HS8T</vendorCode>
+    <price>32700.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9439">
+    <vendorCode>MAST-BG CL 1200A</vendorCode>
+    <price>273010.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9440">
+    <vendorCode>Mast-BG KZM6 TF5</vendorCode>
+    <price>935970.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9441">
+    <vendorCode>MAST-BG DMА 41L</vendorCode>
+    <price>283740.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9442">
+    <vendorCode>TA4138</vendorCode>
+    <price>160.00</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
