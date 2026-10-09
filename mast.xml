@@ -20152,19 +20152,19 @@
     <vendorCode>Enrg_Indp</vendorCode>
     <price>101590.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9310">
     <vendorCode>Own_pwr_plnt</vendorCode>
     <price>88179.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9311">
     <vendorCode>Enrg_indp_hm</vendorCode>
     <price>145750.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9312">
     <vendorCode>16_ext_15_2400x1200_50</vendorCode>
