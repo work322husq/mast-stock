@@ -1126,7 +1126,7 @@
     <vendorCode>ZI-KRB1</vendorCode>
     <price>2070.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2396">
     <vendorCode>ZX7025A</vendorCode>
@@ -11716,7 +11716,7 @@
     <vendorCode>TMGB-150</vendorCode>
     <price>913880.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-6893">
     <vendorCode>UND-K 55</vendorCode>
@@ -13474,7 +13474,7 @@
     <vendorCode>BS450TURN_400V</vendorCode>
     <price>212120.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-7562">
     <vendorCode>TW75_230V</vendorCode>
@@ -13864,7 +13864,7 @@
     <vendorCode>SK990_230V</vendorCode>
     <price>103130.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7656">
     <vendorCode>SK220_230V</vendorCode>
@@ -14272,7 +14272,7 @@
     <vendorCode>ULT-3300-EU</vendorCode>
     <price>25740.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7749">
     <vendorCode>07-02-19</vendorCode>
@@ -16924,7 +16924,7 @@
     <vendorCode>Mast-BG LBM 200</vendorCode>
     <price>112950.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8513">
     <vendorCode>M-RS 3040</vendorCode>
@@ -17782,7 +17782,7 @@
     <vendorCode>Mast-BG KSM 2600</vendorCode>
     <price>152830.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8758">
     <vendorCode>Mast-BG LBS 2500</vendorCode>
@@ -18538,7 +18538,7 @@
     <vendorCode>GBE-5_380V</vendorCode>
     <price>100110.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8923">
     <vendorCode>GBE-7</vendorCode>
@@ -18988,7 +18988,7 @@
     <vendorCode>PB 270.600-01</vendorCode>
     <price>25490.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9023">
     <vendorCode>PB 500.600-50</vendorCode>
@@ -19996,7 +19996,7 @@
     <vendorCode>OS3500</vendorCode>
     <price>135290.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9268">
     <vendorCode>OS4000M</vendorCode>
@@ -20272,7 +20272,7 @@
     <vendorCode>HTP-40/1600</vendorCode>
     <price>1714450.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9351">
     <vendorCode>HTP-12/600 DA53TX</vendorCode>
@@ -20722,7 +20722,7 @@
     <vendorCode>MAST-BG DMА 41L</vendorCode>
     <price>283740.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9442">
     <vendorCode>TA4138</vendorCode>
