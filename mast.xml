@@ -2806,7 +2806,7 @@
     <vendorCode>ZI-HS30EZ</vendorCode>
     <price>182410.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-3268">
     <vendorCode>ZI-HS14TN</vendorCode>
@@ -19936,7 +19936,7 @@
     <vendorCode>ECOB-70</vendorCode>
     <price>640950.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9246">
     <vendorCode>H-RS305 VF2000 Eco</vendorCode>
@@ -20260,7 +20260,7 @@
     <vendorCode>TA5000IW</vendorCode>
     <price>21400.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9349">
     <vendorCode>HTP-40/1250 DA53TX</vendorCode>
@@ -20314,7 +20314,7 @@
     <vendorCode>SUN-20K-SG05LP3-EU-SM2</vendorCode>
     <price>124300.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9362">
     <vendorCode>SUN-50K-SG01HP3-EU-BM4</vendorCode>
