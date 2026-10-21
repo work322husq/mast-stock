@@ -171,7 +171,7 @@
   <offer id="mast-1960">
     <vendorCode>BBM35MAN_230V</vendorCode>
     <price>41220.00</price>
-    <price_special>32720.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-1963">
@@ -1929,7 +1929,7 @@
   <offer id="mast-2552">
     <vendorCode>H8TLG</vendorCode>
     <price>3110.00</price>
-    <price_special>2310.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2553">
@@ -7731,7 +7731,7 @@
   <offer id="mast-4990">
     <vendorCode>TS250_400V</vendorCode>
     <price>77640.00</price>
-    <price_special>74500.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4991">
@@ -10449,7 +10449,7 @@
   <offer id="mast-6446">
     <vendorCode>MAST H-RS305 VF3200S</vendorCode>
     <price>245840.00</price>
-    <price_special>217190.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-6448">
@@ -12651,7 +12651,7 @@
   <offer id="mast-7326">
     <vendorCode>H-MY 8-70 230V</vendorCode>
     <price>13100.00</price>
-    <price_special>10630.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7327">
@@ -12729,7 +12729,7 @@
   <offer id="mast-7339">
     <vendorCode>OSS75A_230V</vendorCode>
     <price>12490.00</price>
-    <price_special>10720.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7340">
@@ -12783,7 +12783,7 @@
   <offer id="mast-7348">
     <vendorCode>BS-128HDRC/230V</vendorCode>
     <price>49600.00</price>
-    <price_special>43400.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7349">
@@ -17121,13 +17121,13 @@
   <offer id="mast-8557">
     <vendorCode>12-00-89</vendorCode>
     <price>8820.00</price>
-    <price_special>8220.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8558">
     <vendorCode>12-00-90</vendorCode>
     <price>11290.00</price>
-    <price_special>10540.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8559">
@@ -18027,7 +18027,7 @@
   <offer id="mast-8812">
     <vendorCode>C6246B/1000</vendorCode>
     <price>972580.00</price>
-    <price_special>810480.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8813">
@@ -18771,7 +18771,7 @@
   <offer id="mast-8971">
     <vendorCode>BS128COOL_230V</vendorCode>
     <price>49020.00</price>
-    <price_special>45980.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8972">
