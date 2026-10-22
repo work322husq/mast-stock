@@ -5288,7 +5288,7 @@
   </offer>
   <offer id="mast-3894">
     <vendorCode>UND-BD 35 KVA</vendorCode>
-    <price>472190.00</price>
+    <price>460420.00</price>
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -5324,13 +5324,13 @@
   </offer>
   <offer id="mast-3929">
     <vendorCode>UND-BD 50 KVA</vendorCode>
-    <price>527750.00</price>
+    <price>545350.00</price>
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-3931">
     <vendorCode>UND-BD 90 KVA</vendorCode>
-    <price>685140.00</price>
+    <price>678830.00</price>
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -6021,7 +6021,7 @@
   <offer id="mast-4328">
     <vendorCode>MBM450LRE_230V</vendorCode>
     <price>43330.00</price>
-    <price_special>38850.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4329">
@@ -6441,7 +6441,7 @@
   <offer id="mast-4450">
     <vendorCode>JMY8-70</vendorCode>
     <price>17640.00</price>
-    <price_special>14940.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4451">
@@ -8505,7 +8505,7 @@
   <offer id="mast-5365">
     <vendorCode>TA1302</vendorCode>
     <price>230.00</price>
-    <price_special>210.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-5366">
@@ -8973,7 +8973,7 @@
   <offer id="mast-5538">
     <vendorCode>CJ6250B/1000</vendorCode>
     <price>1061650.00</price>
-    <price_special>884710.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-5539">
@@ -12789,7 +12789,7 @@
   <offer id="mast-7349">
     <vendorCode>M-BS370 400V</vendorCode>
     <price>248010.00</price>
-    <price_special></price_special>
+    <price_special>213100.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-7350">
@@ -16413,7 +16413,7 @@
   <offer id="mast-8331">
     <vendorCode>JMY-870</vendorCode>
     <price>16660.00</price>
-    <price_special></price_special>
+    <price_special>13100.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8332">
@@ -17121,13 +17121,13 @@
   <offer id="mast-8557">
     <vendorCode>12-00-89</vendorCode>
     <price>8820.00</price>
-    <price_special></price_special>
+    <price_special>8220.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8558">
     <vendorCode>12-00-90</vendorCode>
     <price>11290.00</price>
-    <price_special></price_special>
+    <price_special>10540.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8559">
@@ -17397,7 +17397,7 @@
   <offer id="mast-8658">
     <vendorCode>CJ6250C/1000</vendorCode>
     <price>1113520.00</price>
-    <price_special>927930.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8659">
@@ -18039,7 +18039,7 @@
   <offer id="mast-8814">
     <vendorCode>TORNADO 460X1500</vendorCode>
     <price>1094640.00</price>
-    <price_special></price_special>
+    <price_special>912200.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8815">
@@ -18206,7 +18206,7 @@
   </offer>
   <offer id="mast-8854">
     <vendorCode>DW38CNC-3A-1S</vendorCode>
-    <price>1606800.00</price>
+    <price>1646370.00</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -18771,7 +18771,7 @@
   <offer id="mast-8971">
     <vendorCode>BS128COOL_230V</vendorCode>
     <price>49020.00</price>
-    <price_special></price_special>
+    <price_special>45980.00</price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8972">
@@ -19934,7 +19934,7 @@
   </offer>
   <offer id="mast-9244">
     <vendorCode>ECOB-70</vendorCode>
-    <price>640950.00</price>
+    <price>667000.00</price>
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -20109,7 +20109,7 @@
   <offer id="mast-9297">
     <vendorCode>CJ6280QCx3000</vendorCode>
     <price>2158840.00</price>
-    <price_special>1799030.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9300">
