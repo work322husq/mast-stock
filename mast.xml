@@ -190,7 +190,7 @@
     <vendorCode>ABS2480_230V</vendorCode>
     <price>27470.00</price>
     <price_special>22120.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-1990">
     <vendorCode>ABS2480_400V</vendorCode>
@@ -1114,7 +1114,7 @@
     <vendorCode>ZI-MRB40</vendorCode>
     <price>3740.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2394">
     <vendorCode>ZI-MHK2</vendorCode>
@@ -2572,7 +2572,7 @@
     <vendorCode>BBS550SMART_400V</vendorCode>
     <price>215260.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-3131">
     <vendorCode>BBS350_230V</vendorCode>
@@ -2866,7 +2866,7 @@
     <vendorCode>ZI-HAEK4000</vendorCode>
     <price>32560.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-3283">
     <vendorCode>RAMBO HC15H</vendorCode>
@@ -5272,7 +5272,7 @@
     <vendorCode>TA3500GHX</vendorCode>
     <price>11530.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-3842">
     <vendorCode>YH3600-IV(K)</vendorCode>
@@ -5380,7 +5380,7 @@
     <vendorCode>CD6241/1000</vendorCode>
     <price>621340.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-3949">
     <vendorCode>ED1080ADIG_400V</vendorCode>
@@ -5572,7 +5572,7 @@
     <vendorCode>BS320TOP_400V</vendorCode>
     <price>181250.00</price>
     <price_special>177290.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4023">
     <vendorCode>G5025</vendorCode>
@@ -9874,7 +9874,7 @@
     <vendorCode>ZI-RPE120GYN</vendorCode>
     <price>44780.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-6229">
     <vendorCode>ZI-RPE125</vendorCode>
@@ -11716,7 +11716,7 @@
     <vendorCode>TMGB-150</vendorCode>
     <price>913880.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-6893">
     <vendorCode>UND-K 55</vendorCode>
@@ -11908,7 +11908,7 @@
     <vendorCode>ML500x1000 SH8</vendorCode>
     <price>1336450.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-6952">
     <vendorCode>PWM3KW50A</vendorCode>
@@ -13168,7 +13168,7 @@
     <vendorCode>PBS9</vendorCode>
     <price>55150.00</price>
     <price_special>49810.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7482">
     <vendorCode>M-SV1316S-1 230V</vendorCode>
@@ -13864,7 +13864,7 @@
     <vendorCode>SK990_230V</vendorCode>
     <price>103130.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7656">
     <vendorCode>SK220_230V</vendorCode>
@@ -14422,7 +14422,7 @@
     <vendorCode>19-00-18</vendorCode>
     <price>20950.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7774">
     <vendorCode>07-01-80</vendorCode>
@@ -14716,7 +14716,7 @@
     <vendorCode>07-01-84</vendorCode>
     <price>15030.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7848">
     <vendorCode>07-04-87</vendorCode>
@@ -15574,7 +15574,7 @@
     <vendorCode>06-00-01</vendorCode>
     <price>480.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8031">
     <vendorCode>05-02-86</vendorCode>
@@ -16078,7 +16078,7 @@
     <vendorCode>M-FR 1000</vendorCode>
     <price>429010.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8173">
     <vendorCode>NEX N12 Basic</vendorCode>
@@ -16264,7 +16264,7 @@
     <vendorCode>OZ_TS420M</vendorCode>
     <price>711250.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8291">
     <vendorCode>OZ_TS300M</vendorCode>
@@ -16714,7 +16714,7 @@
     <vendorCode>MT-PR-K8T</vendorCode>
     <price>33230.00</price>
     <price_special>29900.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8448">
     <vendorCode>MT-PR-5T</vendorCode>
@@ -20314,7 +20314,7 @@
     <vendorCode>SUN-20K-SG05LP3-EU-SM2</vendorCode>
     <price>124300.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9362">
     <vendorCode>SUN-50K-SG01HP3-EU-BM4</vendorCode>
