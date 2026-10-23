@@ -1114,7 +1114,7 @@
     <vendorCode>ZI-MRB40</vendorCode>
     <price>3740.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-2394">
     <vendorCode>ZI-MHK2</vendorCode>
@@ -12250,7 +12250,7 @@
     <vendorCode>WS20</vendorCode>
     <price>85400.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7220">
     <vendorCode>ZS-40HS</vendorCode>
@@ -14470,7 +14470,7 @@
     <vendorCode>07-01-86</vendorCode>
     <price>26510.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7782">
     <vendorCode>07-03-33</vendorCode>
@@ -20008,7 +20008,7 @@
     <vendorCode>OS4000S</vendorCode>
     <price>247550.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9271">
     <vendorCode>ST915</vendorCode>
