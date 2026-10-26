@@ -12934,7 +12934,7 @@
     <vendorCode>YH5000io</vendorCode>
     <price>21950.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7393">
     <vendorCode>FKS400V32TOP_400V</vendorCode>
@@ -16786,7 +16786,7 @@
     <vendorCode>EP-20T1000 4Axis</vendorCode>
     <price>1518430.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8470">
     <vendorCode>MOF1390/1100 compact</vendorCode>
