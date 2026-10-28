@@ -2572,7 +2572,7 @@
     <vendorCode>BBS550SMART_400V</vendorCode>
     <price>215260.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-3131">
     <vendorCode>BBS350_230V</vendorCode>
@@ -13468,7 +13468,7 @@
     <vendorCode>SSAT2200_230V</vendorCode>
     <price>115270.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7561">
     <vendorCode>BS450TURN_400V</vendorCode>
@@ -18358,7 +18358,7 @@
     <vendorCode>M-BS320SA</vendorCode>
     <price>244120.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8891">
     <vendorCode>M-BS712R-27 400V</vendorCode>
@@ -18646,7 +18646,7 @@
     <vendorCode>GTQ10SE</vendorCode>
     <price>33370.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8943">
     <vendorCode>SG460S</vendorCode>
@@ -19888,7 +19888,7 @@
     <vendorCode>GW52 Pro</vendorCode>
     <price>94100.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9231">
     <vendorCode>GF20</vendorCode>
@@ -20134,7 +20134,7 @@
     <vendorCode>POZ_12_800X800</vendorCode>
     <price>83270.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9307">
     <vendorCode>16_base_12_1200x800_50</vendorCode>
@@ -20854,7 +20854,7 @@
     <vendorCode>MP0662</vendorCode>
     <price>29900.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9480">
     <vendorCode>SUN-12K-SG05LP3-EU-SM2</vendorCode>
