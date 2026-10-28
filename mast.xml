@@ -20880,4 +20880,64 @@
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="mast-9484">
+    <vendorCode>PVT16KG</vendorCode>
+    <price>34010.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9485">
+    <vendorCode>PVT2.3KG</vendorCode>
+    <price>9150.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9488">
+    <vendorCode>MT-KM1000-2</vendorCode>
+    <price>68930.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9490">
+    <vendorCode>AP3</vendorCode>
+    <price>15360.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9491">
+    <vendorCode>GT4-10</vendorCode>
+    <price>79750.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9492">
+    <vendorCode>MT-RC16</vendorCode>
+    <price>29700.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9493">
+    <vendorCode>MT-RC25</vendorCode>
+    <price>44470.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9494">
+    <vendorCode>ETB40-9494</vendorCode>
+    <price>218940.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9495">
+    <vendorCode>M-ESR-1550x3,5</vendorCode>
+    <price>329000.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9496">
+    <vendorCode>QB11-6X1500</vendorCode>
+    <price>631070.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
 </offers>
