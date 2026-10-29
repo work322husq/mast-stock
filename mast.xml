@@ -2314,7 +2314,7 @@
     <vendorCode>TA6500GKWX</vendorCode>
     <price>32120.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2677">
     <vendorCode>YH3000</vendorCode>
@@ -12934,7 +12934,7 @@
     <vendorCode>YH5000io</vendorCode>
     <price>21950.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7393">
     <vendorCode>FKS400V32TOP_400V</vendorCode>
@@ -18532,7 +18532,7 @@
     <vendorCode>GBE-5_220V</vendorCode>
     <price>100110.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8922">
     <vendorCode>GBE-5_380V</vendorCode>
@@ -18616,7 +18616,7 @@
     <vendorCode>M-W1.0×610Z</vendorCode>
     <price>12590.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8936">
     <vendorCode>M-HS-1300</vendorCode>
@@ -20740,7 +20740,7 @@
     <vendorCode>Enrg_wtht_outg Pro</vendorCode>
     <price>64990.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9446">
     <vendorCode>SUN-30K-SG02HP3-EU-AM3</vendorCode>
