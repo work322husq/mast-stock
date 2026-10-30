@@ -14956,7 +14956,7 @@
     <vendorCode>14-00-40</vendorCode>
     <price>1250.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7898">
     <vendorCode>02-02-71</vendorCode>
@@ -15058,19 +15058,19 @@
     <vendorCode>19-00-19</vendorCode>
     <price>8530.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7915">
     <vendorCode>19-00-20</vendorCode>
     <price>11830.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7916">
     <vendorCode>19-00-28</vendorCode>
     <price>8880.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7917">
     <vendorCode>07-01-92</vendorCode>
@@ -15718,7 +15718,7 @@
     <vendorCode>M-RN 16</vendorCode>
     <price>62400.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8057">
     <vendorCode>M-RN 36</vendorCode>
@@ -16396,7 +16396,7 @@
     <vendorCode>07-02-32</vendorCode>
     <price>4030.00</price>
     <price_special>3760.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8329">
     <vendorCode>07-05-68</vendorCode>
@@ -16570,7 +16570,7 @@
     <vendorCode>Z7020</vendorCode>
     <price>43360.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8408">
     <vendorCode>MQ11-4x1250</vendorCode>
@@ -16786,7 +16786,7 @@
     <vendorCode>EP-20T1000 4Axis</vendorCode>
     <price>1518430.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8470">
     <vendorCode>MOF1390/1100 compact</vendorCode>
@@ -17014,7 +17014,7 @@
     <vendorCode>CKT360/750SAH8</vendorCode>
     <price>1250000.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8532">
     <vendorCode>CKT400x1000SAM8</vendorCode>
@@ -17170,7 +17170,7 @@
     <vendorCode>14-00-42</vendorCode>
     <price>520.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8566">
     <vendorCode>12-00-87</vendorCode>
@@ -18100,7 +18100,7 @@
     <vendorCode>VPT2.3KG_230V</vendorCode>
     <price>7200.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8825">
     <vendorCode>M-BS 500DA</vendorCode>
@@ -18532,7 +18532,7 @@
     <vendorCode>GBE-5_220V</vendorCode>
     <price>100110.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8922">
     <vendorCode>GBE-5_380V</vendorCode>
@@ -20020,7 +20020,7 @@
     <vendorCode>FM300S/400V</vendorCode>
     <price>25190.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9275">
     <vendorCode>GW42</vendorCode>
@@ -20260,7 +20260,7 @@
     <vendorCode>TA5000IW</vendorCode>
     <price>21400.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9349">
     <vendorCode>HTP-40/1250 DA53TX</vendorCode>
@@ -20332,7 +20332,7 @@
     <vendorCode>HBS260</vendorCode>
     <price>98790.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9366">
     <vendorCode>MET_BS712N 400V</vendorCode>
@@ -20884,7 +20884,7 @@
     <vendorCode>PVT16KG</vendorCode>
     <price>34010.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9485">
     <vendorCode>PVT2.3KG</vendorCode>
