@@ -189,7 +189,7 @@
   <offer id="mast-1989">
     <vendorCode>ABS2480_230V</vendorCode>
     <price>27470.00</price>
-    <price_special>22120.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-1990">
@@ -6813,7 +6813,7 @@
   <offer id="mast-4574">
     <vendorCode>AKB1000FO</vendorCode>
     <price>20570.00</price>
-    <price_special>17210.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4577">
@@ -6873,7 +6873,7 @@
   <offer id="mast-4654">
     <vendorCode>TBS1500</vendorCode>
     <price>157090.00</price>
-    <price_special>120770.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4655">
@@ -10448,7 +10448,7 @@
   </offer>
   <offer id="mast-6446">
     <vendorCode>MAST H-RS305 VF3200S</vendorCode>
-    <price>245840.00</price>
+    <price>240840.00</price>
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -10575,7 +10575,7 @@
   <offer id="mast-6490">
     <vendorCode>ZC-0.25/50L</vendorCode>
     <price>8270.00</price>
-    <price_special></price_special>
+    <price_special>6600.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-6491">
@@ -12783,7 +12783,7 @@
   <offer id="mast-7348">
     <vendorCode>BS-128HDRC/230V</vendorCode>
     <price>49600.00</price>
-    <price_special></price_special>
+    <price_special>43400.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-7349">
@@ -13629,7 +13629,7 @@
   <offer id="mast-7599">
     <vendorCode>HBS400_400V</vendorCode>
     <price>84110.00</price>
-    <price_special>72400.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7601">
@@ -14607,7 +14607,7 @@
   <offer id="mast-7819">
     <vendorCode>15-00-96</vendorCode>
     <price>7780.00</price>
-    <price_special>7290.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7820">
@@ -16395,7 +16395,7 @@
   <offer id="mast-8328">
     <vendorCode>07-02-32</vendorCode>
     <price>4030.00</price>
-    <price_special>3760.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8329">
@@ -17013,7 +17013,7 @@
   <offer id="mast-8531">
     <vendorCode>CKT360/750SAH8</vendorCode>
     <price>1250000.00</price>
-    <price_special></price_special>
+    <price_special>1145000.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8532">
