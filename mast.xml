@@ -1354,7 +1354,7 @@
     <vendorCode>SPS170TIN</vendorCode>
     <price>5420.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2442">
     <vendorCode>WZHB_PRISMA</vendorCode>
@@ -15070,7 +15070,7 @@
     <vendorCode>19-00-28</vendorCode>
     <price>8880.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7917">
     <vendorCode>07-01-92</vendorCode>
