@@ -1126,7 +1126,7 @@
     <vendorCode>ZI-KRB1</vendorCode>
     <price>2070.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-2396">
     <vendorCode>ZX7025A</vendorCode>
@@ -8296,7 +8296,7 @@
     <vendorCode>STM 350-1200PRO</vendorCode>
     <price>84120.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-5240">
     <vendorCode>STM 450-700</vendorCode>
@@ -8890,7 +8890,7 @@
     <vendorCode>WLTB</vendorCode>
     <price>28440.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-5525">
     <vendorCode>WLTC</vendorCode>
@@ -8950,7 +8950,7 @@
     <vendorCode>WLTA</vendorCode>
     <price>29810.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-5535">
     <vendorCode>C6266/3000</vendorCode>
@@ -12934,7 +12934,7 @@
     <vendorCode>YH5000io</vendorCode>
     <price>21950.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-7393">
     <vendorCode>FKS400V32TOP_400V</vendorCode>
@@ -14452,7 +14452,7 @@
     <vendorCode>11-00-79</vendorCode>
     <price>341180.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7779">
     <vendorCode>07-02-21</vendorCode>
@@ -15478,7 +15478,7 @@
     <vendorCode>12-00-27</vendorCode>
     <price>230.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8009">
     <vendorCode>07-05-26</vendorCode>
@@ -16624,7 +16624,7 @@
     <vendorCode>19-00-36</vendorCode>
     <price>36590.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8422">
     <vendorCode>07-02-81</vendorCode>
@@ -17140,7 +17140,7 @@
     <vendorCode>12-00-86</vendorCode>
     <price>5850.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8561">
     <vendorCode>04-01-38</vendorCode>
@@ -18610,7 +18610,7 @@
     <vendorCode>HS100FLEX</vendorCode>
     <price>8200.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8935">
     <vendorCode>M-W1.0×610Z</vendorCode>
@@ -20116,7 +20116,7 @@
     <vendorCode>M16S100BL-U</vendorCode>
     <price>33426.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9303">
     <vendorCode>M-SR 20</vendorCode>
@@ -20194,7 +20194,7 @@
     <vendorCode>GW40-CNC</vendorCode>
     <price>67370.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9319">
     <vendorCode>GW50-CNC</vendorCode>
@@ -20398,7 +20398,7 @@
     <vendorCode>H-QC11K-8X3200</vendorCode>
     <price>1371840.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9378">
     <vendorCode>H-Q35Y-16</vendorCode>
