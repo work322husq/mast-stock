@@ -6520,7 +6520,7 @@
     <vendorCode>BSG13PRO_230V</vendorCode>
     <price>30890.00</price>
     <price_special>23920.00</price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4468">
     <vendorCode>DG13M/230V</vendorCode>
@@ -12934,7 +12934,7 @@
     <vendorCode>YH5000io</vendorCode>
     <price>21950.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7393">
     <vendorCode>FKS400V32TOP_400V</vendorCode>
@@ -16276,7 +16276,7 @@
     <vendorCode>OZ_TS275D</vendorCode>
     <price>346730.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8295">
     <vendorCode>OZ_TA300M</vendorCode>
@@ -20074,7 +20074,7 @@
     <vendorCode>SPM-15DT</vendorCode>
     <price>334720.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9286">
     <vendorCode>HTP-12/600</vendorCode>
@@ -20248,7 +20248,7 @@
     <vendorCode>TA10300TD</vendorCode>
     <price>65890.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9340">
     <vendorCode>TA6500GWX</vendorCode>
