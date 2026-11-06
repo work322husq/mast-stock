@@ -6519,7 +6519,7 @@
   <offer id="mast-4467">
     <vendorCode>BSG13PRO_230V</vendorCode>
     <price>30890.00</price>
-    <price_special>23920.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4468">
@@ -20504,7 +20504,7 @@
   </offer>
   <offer id="mast-9399">
     <vendorCode>SE-F5-PRO-C</vendorCode>
-    <price>39620.00</price>
+    <price>43570.00</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
@@ -20840,7 +20840,7 @@
   </offer>
   <offer id="mast-9477">
     <vendorCode>SE-F16-C</vendorCode>
-    <price>110930.00</price>
+    <price>100170.00</price>
     <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
