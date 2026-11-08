@@ -2631,7 +2631,7 @@
   <offer id="mast-3182">
     <vendorCode>ZI-BR160Y</vendorCode>
     <price>24910.00</price>
-    <price_special>18330.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-3183">
@@ -17013,7 +17013,7 @@
   <offer id="mast-8531">
     <vendorCode>CKT360/750SAH8</vendorCode>
     <price>1250000.00</price>
-    <price_special>1145000.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8532">
@@ -17025,7 +17025,7 @@
   <offer id="mast-8533">
     <vendorCode>CKT400x1000SAH8</vendorCode>
     <price>1702000.00</price>
-    <price_special>1390000.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8534">
@@ -17121,13 +17121,13 @@
   <offer id="mast-8557">
     <vendorCode>12-00-89</vendorCode>
     <price>8820.00</price>
-    <price_special></price_special>
+    <price_special>8220.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8558">
     <vendorCode>12-00-90</vendorCode>
     <price>11290.00</price>
-    <price_special></price_special>
+    <price_special>10540.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8559">
