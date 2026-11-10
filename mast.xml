@@ -1929,7 +1929,7 @@
   <offer id="mast-2552">
     <vendorCode>H8TLG</vendorCode>
     <price>3110.00</price>
-    <price_special></price_special>
+    <price_special>2310.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-2553">
@@ -5367,7 +5367,7 @@
   <offer id="mast-3941">
     <vendorCode>ED1500INDIG80_400</vendorCode>
     <price>932420.00</price>
-    <price_special></price_special>
+    <price_special>855470.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-3945">
@@ -9885,7 +9885,7 @@
   <offer id="mast-6230">
     <vendorCode>ZI-RPE160C</vendorCode>
     <price>99310.00</price>
-    <price_special></price_special>
+    <price_special>78400.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-6231">
@@ -10455,7 +10455,7 @@
   <offer id="mast-6448">
     <vendorCode>ABS3880_400V</vendorCode>
     <price>41220.00</price>
-    <price_special></price_special>
+    <price_special>35610.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-6453">
@@ -16719,13 +16719,13 @@
   <offer id="mast-8448">
     <vendorCode>MT-PR-5T</vendorCode>
     <price>16790.00</price>
-    <price_special></price_special>
+    <price_special>14310.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8449">
     <vendorCode>MT-PR-7T</vendorCode>
     <price>19540.00</price>
-    <price_special></price_special>
+    <price_special>16640.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8450">
@@ -17013,7 +17013,7 @@
   <offer id="mast-8531">
     <vendorCode>CKT360/750SAH8</vendorCode>
     <price>1250000.00</price>
-    <price_special></price_special>
+    <price_special>1145000.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8532">
@@ -17025,7 +17025,7 @@
   <offer id="mast-8533">
     <vendorCode>CKT400x1000SAH8</vendorCode>
     <price>1702000.00</price>
-    <price_special></price_special>
+    <price_special>1390000.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8534">
