@@ -13156,7 +13156,7 @@
     <vendorCode>W01-2x1250</vendorCode>
     <price>100260.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7480">
     <vendorCode>W01-1,5x1300</vendorCode>
@@ -17038,7 +17038,7 @@
     <vendorCode>M-HP-63</vendorCode>
     <price>176670.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8539">
     <vendorCode>M-TF 400</vendorCode>
@@ -19702,7 +19702,7 @@
     <vendorCode>16z001</vendorCode>
     <price>53190.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9167">
     <vendorCode>28z002</vendorCode>
@@ -19714,7 +19714,7 @@
     <vendorCode>16z002</vendorCode>
     <price>67770.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9169">
     <vendorCode>16z004</vendorCode>
@@ -20518,7 +20518,7 @@
     <vendorCode>MAST FS 2600R</vendorCode>
     <price>100710.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9403">
     <vendorCode>MAST FS-2600А</vendorCode>
