@@ -447,7 +447,7 @@
   <offer id="mast-2155">
     <vendorCode>PJ100A_230V</vendorCode>
     <price>5420.00</price>
-    <price_special>4400.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2159">
@@ -981,7 +981,7 @@
   <offer id="mast-2349">
     <vendorCode>ZS400U_230V</vendorCode>
     <price>84120.00</price>
-    <price_special>61960.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-2350">
@@ -6681,7 +6681,7 @@
   <offer id="mast-4503">
     <vendorCode>BF20V_230V</vendorCode>
     <price>121350.00</price>
-    <price_special>102920.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-4504">
@@ -12849,7 +12849,7 @@
   <offer id="mast-7361">
     <vendorCode>M-EFEW1.5x762</vendorCode>
     <price>35580.00</price>
-    <price_special>28190.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7362">
@@ -16707,7 +16707,7 @@
   <offer id="mast-8446">
     <vendorCode>MT-RP100</vendorCode>
     <price>81420.00</price>
-    <price_special></price_special>
+    <price_special>66000.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8447">
@@ -16719,13 +16719,13 @@
   <offer id="mast-8448">
     <vendorCode>MT-PR-5T</vendorCode>
     <price>16790.00</price>
-    <price_special>14310.00</price_special>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8449">
     <vendorCode>MT-PR-7T</vendorCode>
     <price>19540.00</price>
-    <price_special>16640.00</price_special>
+    <price_special></price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-8450">
