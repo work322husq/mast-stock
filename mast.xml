@@ -21102,4 +21102,136 @@
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="mast-9501">
+    <vendorCode>HW-APB-4000</vendorCode>
+    <price>19150.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9502">
+    <vendorCode>HW-APD-8500D</vendorCode>
+    <price>52420.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9503">
+    <vendorCode>HW-APB-10500</vendorCode>
+    <price>42650.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9504">
+    <vendorCode>HW-APD-11000D</vendorCode>
+    <price>75610.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9505">
+    <vendorCode>HW-API-3500i</vendorCode>
+    <price>15120.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9506">
+    <vendorCode>HW-API-3750i</vendorCode>
+    <price>15930.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9507">
+    <vendorCode>HW-API-4500i</vendorCode>
+    <price>20160.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9508">
+    <vendorCode>HW-API-2500is</vendorCode>
+    <price>26110.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9513">
+    <vendorCode>HW-K08</vendorCode>
+    <price>256690.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9514">
+    <vendorCode>HW-K08-RK</vendorCode>
+    <price>279040.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9515">
+    <vendorCode>HW-KO10</vendorCode>
+    <price>279860.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9516">
+    <vendorCode>HW-KO10-R</vendorCode>
+    <price>290230.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9517">
+    <vendorCode>HW-KO10PRO</vendorCode>
+    <price>321270.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9518">
+    <vendorCode>HW-KO10PRO-RGKC</vendorCode>
+    <price>388630.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9519">
+    <vendorCode>HW-KO12</vendorCode>
+    <price>285000.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9520">
+    <vendorCode>HW-KO12-RG</vendorCode>
+    <price>331640.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9521">
+    <vendorCode>HW-TE-150</vendorCode>
+    <price>22860.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9524">
+    <vendorCode>HW-KU12-R</vendorCode>
+    <price>528210.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9525">
+    <vendorCode>HW-KU12-RGK</vendorCode>
+    <price>568030.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9526">
+    <vendorCode>HW-KU15-RGK</vendorCode>
+    <price>538180.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9527">
+    <vendorCode>HW-KU20-RGC</vendorCode>
+    <price>850450.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9528">
+    <vendorCode>HW-WHL-500</vendorCode>
+    <price>227670.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
 </offers>
