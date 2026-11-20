@@ -1257,7 +1257,7 @@
   <offer id="mast-2419">
     <vendorCode>9TLG16</vendorCode>
     <price>11620.00</price>
-    <price_special></price_special>
+    <price_special>10780.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-2420">
@@ -5427,7 +5427,7 @@
   <offer id="mast-3959">
     <vendorCode>Tytan330x700</vendorCode>
     <price>233010.00</price>
-    <price_special>197580.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-3960">
@@ -6681,7 +6681,7 @@
   <offer id="mast-4503">
     <vendorCode>BF20V_230V</vendorCode>
     <price>121350.00</price>
-    <price_special></price_special>
+    <price_special>102920.00</price_special>
     <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-4504">
@@ -8151,7 +8151,7 @@
   <offer id="mast-5107">
     <vendorCode>M300S</vendorCode>
     <price>77370.00</price>
-    <price_special>63900.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-5108">
@@ -12591,7 +12591,7 @@
   <offer id="mast-7308">
     <vendorCode>MK75</vendorCode>
     <price>30880.00</price>
-    <price_special>17550.00</price_special>
+    <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7309">
@@ -16862,7 +16862,7 @@
   </offer>
   <offer id="mast-8485">
     <vendorCode>ED2000IND105D_400V</vendorCode>
-    <price>94230.00</price>
+    <price>1244990.00</price>
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
@@ -18476,7 +18476,7 @@
   </offer>
   <offer id="mast-8912">
     <vendorCode>IO3500</vendorCode>
-    <price>20990.00</price>
+    <price>17990.00</price>
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
