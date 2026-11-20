@@ -20818,7 +20818,7 @@
     <vendorCode>TM602</vendorCode>
     <price>18990.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-9473">
     <vendorCode>TM600</vendorCode>
@@ -21142,7 +21142,7 @@
     <vendorCode>HW-API-4500i</vendorCode>
     <price>20160.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9508">
     <vendorCode>HW-API-2500is</vendorCode>
