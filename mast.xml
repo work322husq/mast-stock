@@ -20254,7 +20254,7 @@
     <vendorCode>TA6500GWX</vendorCode>
     <price>34470.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9342">
     <vendorCode>TA5000IW</vendorCode>
@@ -21124,7 +21124,7 @@
     <vendorCode>HW-APD-11000D</vendorCode>
     <price>75610.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9505">
     <vendorCode>HW-API-3500i</vendorCode>
