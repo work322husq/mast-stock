@@ -9490,7 +9490,7 @@
     <vendorCode>TA10300D</vendorCode>
     <price>63730.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-6081">
     <vendorCode>TA10300DS</vendorCode>
@@ -14458,7 +14458,7 @@
     <vendorCode>07-02-21</vendorCode>
     <price>26410.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7780">
     <vendorCode>07-01-85</vendorCode>
@@ -19108,7 +19108,7 @@
     <vendorCode>16_pro_12_2000x1000_100</vendorCode>
     <price>85790.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9051">
     <vendorCode>16_pro_12_2400x1200_100</vendorCode>
@@ -20116,7 +20116,7 @@
     <vendorCode>M16S100BL-U</vendorCode>
     <price>33426.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9303">
     <vendorCode>M-SR 20</vendorCode>
