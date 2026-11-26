@@ -13042,7 +13042,7 @@
     <vendorCode>StR96</vendorCode>
     <price>46490.00</price>
     <price_special></price_special>
-    <stock_quantity>0</stock_quantity>
+    <stock_quantity>99</stock_quantity>
   </offer>
   <offer id="mast-7444">
     <vendorCode>L300</vendorCode>
@@ -14434,7 +14434,7 @@
     <vendorCode>11-00-78</vendorCode>
     <price>237850.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7776">
     <vendorCode>11-00-95</vendorCode>
@@ -14728,7 +14728,7 @@
     <vendorCode>07-05-69</vendorCode>
     <price>54590.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-7850">
     <vendorCode>19-00-16</vendorCode>
