@@ -11830,7 +11830,7 @@
     <vendorCode>UND-K 35</vendorCode>
     <price>364200.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-6912">
     <vendorCode>TMGB-50</vendorCode>
@@ -15970,7 +15970,7 @@
     <vendorCode>2105/500L 400V 12.5BAR</vendorCode>
     <price>83040.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-8154">
     <vendorCode>MST-UB100A</vendorCode>
@@ -20206,7 +20206,7 @@
     <vendorCode>HTP-20/1000 DA53TX</vendorCode>
     <price>1643020.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9325">
     <vendorCode>RS75</vendorCode>
@@ -21148,7 +21148,7 @@
     <vendorCode>HW-API-2500is</vendorCode>
     <price>26110.00</price>
     <price_special></price_special>
-    <stock_quantity>99</stock_quantity>
+    <stock_quantity>0</stock_quantity>
   </offer>
   <offer id="mast-9513">
     <vendorCode>HW-K08</vendorCode>
