@@ -21234,4 +21234,118 @@
     <price_special></price_special>
     <stock_quantity>0</stock_quantity>
   </offer>
+  <offer id="mast-9475">
+    <vendorCode>06-01-24</vendorCode>
+    <price>34790.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9585">
+    <vendorCode>15-01-09</vendorCode>
+    <price>190990.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9586">
+    <vendorCode>04-01-14</vendorCode>
+    <price>590.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9587">
+    <vendorCode>04-00-31</vendorCode>
+    <price>430.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9557">
+    <vendorCode>MILL855 4 osie S828 P24 W10 CPW T</vendorCode>
+    <price>3816850.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9558">
+    <vendorCode>MILL1042 S808 N16 W10 T CPW 4 osie</vendorCode>
+    <price>3060000.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9576">
+    <vendorCode>BDS6X9</vendorCode>
+    <price>28990.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9582">
+    <vendorCode>MP160</vendorCode>
+    <price>26540.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9590">
+    <vendorCode>WL3000</vendorCode>
+    <price>801250.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9572">
+    <vendorCode>POD_M700</vendorCode>
+    <price>5410.00</price>
+    <price_special></price_special>
+    <stock_quantity>99</stock_quantity>
+  </offer>
+  <offer id="mast-9560">
+    <vendorCode>GX6-14</vendorCode>
+    <price>199970.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9561">
+    <vendorCode>GX6-25</vendorCode>
+    <price>326660.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9562">
+    <vendorCode>MAST-BG BS 61</vendorCode>
+    <price>232750.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9564">
+    <vendorCode>M-BS712R-27 230V</vendorCode>
+    <price>87750.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9565">
+    <vendorCode>EWD260B</vendorCode>
+    <price>37370.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9552">
+    <vendorCode>MT6012_1500W</vendorCode>
+    <price>907540.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9556">
+    <vendorCode>MT6012_3000W</vendorCode>
+    <price>1147950.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9563">
+    <vendorCode>16_std_12_1500x1000_50</vendorCode>
+    <price>71370.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
+  <offer id="mast-9575">
+    <vendorCode>YH12800Eio</vendorCode>
+    <price>67310.00</price>
+    <price_special></price_special>
+    <stock_quantity>0</stock_quantity>
+  </offer>
 </offers>
